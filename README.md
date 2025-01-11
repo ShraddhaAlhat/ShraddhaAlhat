@@ -3,8 +3,7 @@
 ---
 ### 👋 About Me  
 I am a **Computer Engineering graduate** with a keen interest in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My goal is to leverage innovative technologies to solve complex real-world challenges and make data-driven decisions impactful. I am passionate about exploring cutting-edge advancements in AI/ML and contributing to projects that drive meaningful change.  
-
---
+---
 ### 🌟 Current Focus  
 - Building **AI/ML models** to solve predictive and analytical problems.  
 - Exploring **MLOps** and **GenAI** for seamless deployment and scaling of ML models.  
