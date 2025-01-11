@@ -1,5 +1,4 @@
 # Hi there, I'm Shraddha Alhat 👋
-
 ### 🚀 About Me
 I'm a **Computer Engineering** graduate with a strong passion for **AI/ML**. I love exploring new technologies and applying them to solve real-world challenges. Currently, I'm diving deep into the world of **Data Science** and **Machine Learning**, always seeking to learn and innovate.
 
@@ -17,5 +16,4 @@ I'm a **Computer Engineering** graduate with a strong passion for **AI/ML**. I l
 - [LinkedIn](https://www.linkedin.com/in/shraddha-alhat-960617259/)
 - [Twitter](https://twitter.com/shraddha_alhat)
 - [Email](mailto:shraddhaalhat.sit.comp@gmail.com)
-
 Thanks for visiting my profile! 😊
