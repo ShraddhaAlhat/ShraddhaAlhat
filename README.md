@@ -13,6 +13,6 @@ I am a **Computer Engineering graduate** with a keen interest in **Artificial In
 
 ### 🌍 Let's Connect  
 - **LinkedIn**: [linkedin.com/in/shraddha-alhat](https://www.linkedin.com/in/shraddha-alhat-960617259/)   
-- **Email**: [shraddhaalhat@example.com](mailto:shraddhaalhat.sit.comp@gmail.com)  
+- **Email**: [shraddhaalhat.sit.comp@gmail.com](mailto:shraddhaalhat.sit.comp@gmail.com)  
 ---
 Thank you for visiting my GitHub profile! Feel free to explore my projects and reach out for collaborations. 🚀
