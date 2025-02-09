@@ -6,7 +6,7 @@ I am a **Computer Engineering graduate** with a keen interest in **Artificial In
 
 ---
 ###  🚀 I'm Currently Working On:
-- Machine learning projects involving predictive models and recommendation systems
+- Machine learning projects involving predictive models.
 - Exploring GenAI with NLP for improving AI model operations
 - Applying AI to solve real-world problems in various domains  
 ---
